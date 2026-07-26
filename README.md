@@ -46,10 +46,10 @@ Each problem contains:
 
 | Difficulty | Solved |
 |------------|-------:|
-| Easy | 0 |
-| Medium | 0 |
-| Hard | 0 |
-| **Total** | **0** |
+| Easy |      1 |
+| Medium |      0 |
+| Hard |      0 |
+| **Total** |  **0** |
 
 ## Technologies
 
