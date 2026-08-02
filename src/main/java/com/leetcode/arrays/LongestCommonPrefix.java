@@ -2,7 +2,7 @@ package com.leetcode.arrays;
 
 // LeetCode 14 - Longest Common Prefix
 // https://leetcode.com/problems/longest-common-prefix/
-// Time: O(n*m),
+// Time: O(n*m)
 public class LongestCommonPrefix {
     public String longestCommonPrefix(String[] strs){
         String solution = strs[0];

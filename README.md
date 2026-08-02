@@ -38,19 +38,28 @@ Each problem contains:
 
 ## Solved Problems
 
-| # | Problem               | Difficulty | Category |
-|---|-----------------------|------------|----------|
-| 1 | Two Sum               | Easy | Arrays |
-| 2 | Longest Common Prefix | Easy | Arrays |
+| #  | Problem               | Difficulty | Category |
+|----|-----------------------|------------|----------|
+| 1  | Two Sum               | Easy | Arrays   |
+| 14 | Longest Common Prefix | Easy | Arrays   |
+| 9  | Palindrome Number     | Easy | Math     |
 
 ## Progress
 
 | Difficulty | Solved |
 |------------|-------:|
-| Easy |      2 |
+| Easy |      3 |
 | Medium |      0 |
 | Hard |      0 |
-| **Total** |  **0** |
+| **Total** |  **3** |
+
+
+
+| Topic     | Solved |
+|-----------|-------:|
+| Arrays    |      2 |
+| Math      |      1 |
+| **Total** |  **3** |
 
 ## Technologies
 
