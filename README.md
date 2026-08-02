@@ -38,15 +38,16 @@ Each problem contains:
 
 ## Solved Problems
 
-| # | Problem | Difficulty | Category |
-|---|---------|------------|----------|
-| 1 | Two Sum | Easy | Arrays |
+| # | Problem               | Difficulty | Category |
+|---|-----------------------|------------|----------|
+| 1 | Two Sum               | Easy | Arrays |
+| 2 | Longest Common Prefix | Easy | Arrays |
 
 ## Progress
 
 | Difficulty | Solved |
 |------------|-------:|
-| Easy |      1 |
+| Easy |      2 |
 | Medium |      0 |
 | Hard |      0 |
 | **Total** |  **0** |
