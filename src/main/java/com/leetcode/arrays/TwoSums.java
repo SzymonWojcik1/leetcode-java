@@ -4,7 +4,6 @@ import java.util.HashMap;
 
 // LeetCode 1 - Two Sum
 // https://leetcode.com/problems/two-sum/
-// Time: O(n)
 public class TwoSums {
     public int[] twoSum(int[] nums, int target) {
         int[] solution = {0,0};
